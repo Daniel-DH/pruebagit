@@ -12,3 +12,7 @@ git push -u origin master
 
 
 git status
+
+git add . ( agregar todo contenindo) 
+
+git rm --cached nombre_archivo
