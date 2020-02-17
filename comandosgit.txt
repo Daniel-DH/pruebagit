@@ -16,3 +16,7 @@ git status
 git add . ( agregar todo contenindo) 
 
 git rm --cached nombre_archivo
+
+git log
+
+gti branch
